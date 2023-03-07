@@ -3,7 +3,7 @@
   "description": "Eaglecraft pvp client. Currently developed by hooman#1196/Nitwit in-game. Packs are created by BDA, Woody, Nine4, Vortexian, Luv, Neon, and a few are taken from precision.",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Resent Client Eaglercraft",
+  "name": "Resent-Client",
   "orientation": "any",
   "scope": "/",
   "short_name": "Resent",
